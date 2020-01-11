@@ -1,0 +1,19 @@
+{
+  "name": "tello-backend",
+  "version": "1.0.0",
+  "description": "Tello node.js controller",
+  "main": "controller.js",
+  "scripts": {
+    "start": "node controller.js"
+  },
+  "author": "Ådne Øvrebø",
+  "license": "MIT",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "socket.io": "^2.3.0",
+    "waait": "^1.0.5",
+    "wait": "^0.1.0"
+  }
+}
