@@ -68,3 +68,7 @@ Route planner: add your own commands to extend functionality
 #
 
 ## NB ⚠️️️: The codebase is used at your own risk
+
+
+## TODO:
+- Add livestream video from drone
